@@ -230,7 +230,7 @@ class _HomePageState extends State<HomePage> {
               buildTrendingProduct(
                 productImage:
                     'https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ac5b4461490e4bc7b70bab1901691af0_9366/Argentina_Away_Jersey_Blue_GE5477_01_laydown.jpg',
-                productModel: 'Shoes',
+                productModel: 'Cloths',
                 productName: 'Argentina Away Jersey',
                 productPrice: 70,
               ),
